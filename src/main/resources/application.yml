@@ -39,7 +39,7 @@ jdbc:
     
 # 日志输出
 logging: 
-    file: D:/boot.log
+    file: D:/Temp/Logs/boot.log
     level: 
         com.ibatis:DEBUG
         root:DEBUG
